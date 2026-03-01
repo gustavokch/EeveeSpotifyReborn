@@ -5,7 +5,7 @@ on:
     inputs:
       ipa_url:
         description: "URL to the decrypted IPA file"
-        default: "https://filebin.net/10yk05pp5cu571yj"
+        default: "https://filebin.net/10yk05pp5cu571yj/com.spotify.client-9.1.24-eeveedecrypter.ipa"
         required: true
         type: string
       tweak_url:
